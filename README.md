@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI-powered automation and mobile app development.<br>👬 I'm looking to collaborate on Android development and AI-driven solutions.<br>🤝 I'm looking for help with optimizing AI models and cloud integration.<br>🌱 I'm currently learning React Native and AI for NLP.<br>💬 Ask me about Android, Firebase, and AI in mobile apps.<br>⚡ Fun fact: I love making apps smarter and more efficient! <br><br><br><br><br><br><br><br>
+🔭 Currently working on AI-powered automation & mobile app development.<br>👬 Open to collaborating on Android projects & AI-driven solutions<br>🤝 Looking for support with AI model optimization & cloud integration.<br>🌱 Learning React Native & exploring AI for NLP.<br>⚡ Fun fact: I love making apps smarter and more efficient! <br><br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
