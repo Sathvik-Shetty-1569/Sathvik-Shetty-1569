@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <div align="center">
 </div>
