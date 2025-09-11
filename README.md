@@ -1,6 +1,20 @@
-# 💫 About Me:
-🔭 Currently working on AI-powered automation & mobile app development.<br>👬 Open to collaborating on Android projects & AI-driven solutions<br>🤝 Looking for support with AI model optimization & cloud integration.<br>🌱 Learning React Native & exploring AI for NLP.<br>⚡ Fun fact: I love making apps smarter and more efficient! <br><br><br><br><br><br><br><br>
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="MasterHead"/>
+</div>
+
+<h1 align="center">Hi 👋, I'm Sathvik Shetty</h1>
+<h3 align="center">🤖 Exploring Generative AI & End-to-End Android Development</h3>
+
+- 🔭 I’m currently working on **AI-powered Android projects**  
+
+- 🌱 I’m currently diving deep into **Generative AI & Large Language Models (LLMs)**  
+
+- 💬 Ask me about **Android | MERN Stack | Generative AI & LLMs**
+
+- 📫 How to reach me **sathvikshetty189@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sathvikkshetty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-shetty-8a235824a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikshetty189@gmail.com) 
