@@ -1,27 +1,18 @@
-
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="MasterHead" style="pointer-events: none; cursor: default;" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="MasterHead" width="100%" />
 </div>
- <br>
+
 <h1 align="center">Hi 👋, I'm Sathvik Shetty</h1>
 <h3 align="center">🤖 Exploring Generative AI & End-to-End Android Development</h3>
-<br/>
-
-- 🔭 I'm currently working on <b>AI-powered Android projects</b>
-
-- 🌱 I'm currently diving deep into <b>Generative AI & Large Language Models</b>
-
-- 🎯 My goal is to <b>revolutionize mobile experiences with AI</b>
-
-- 💬 Ask me about <b>Android | MERN Stack | Generative AI & LLMs</b>
 
 
-- 📫 How to reach me <b>sathvikshetty189@gmail.com</b>
+- 🔭 Currently working on **AI-powered Android projects**  
+- 🌱 Diving deep into **Generative AI & Large Language Models (LLMs)**  
+- 🎯 Goal: **Revolutionize mobile experiences with AI**  
+- 💬 Ask me about **Android | MERN Stack | Generative AI & LLMs**  
+- 📫 Reach me at **sathvikshetty189@gmail.com**  
+- ⚡ Fun fact: **I’m funny 😅**  
 
-
-- ⚡ Fun fact <b>I am Funny</b>
-
-<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sathvikkshetty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-shetty-8a235824a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikshetty189@gmail.com) 
