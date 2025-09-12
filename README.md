@@ -12,6 +12,7 @@
 
 - 🌱 I'm currently diving deep into <b>Generative AI & Large Language Models</b>
 
+- 🎯 My goal is to <b>revolutionize mobile experiences with AI</b>
 
 - 💬 Ask me about <b>Android | MERN Stack | Generative AI & LLMs</b>
 
