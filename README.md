@@ -1,20 +1,27 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <div align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="MasterHead" style="pointer-events: none; cursor: default;" />
 </div>
-
+ <br>
 <h1 align="center">Hi 👋, I'm Sathvik Shetty</h1>
 <h3 align="center">🤖 Exploring Generative AI & End-to-End Android Development</h3>
+<img align="right" alt="Coding" width="400" height = "380" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **AI-powered Android projects**  
+<br>
+- 🔭 I'm currently working on <b>AI-powered Android projects</b>
 
-- 🌱 I’m currently diving deep into **Generative AI & Large Language Models (LLMs)**  
 
-- 💬 Ask me about **Android | MERN Stack | Generative AI & LLMs**
+- 🌱 I'm currently diving deep into <b>Generative AI & Large Language Models</b>
 
-- 📫 How to reach me **sathvikshetty189@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 💬 Ask me about <b>Android | MERN Stack | Generative AI & LLMs</b>
+
+
+- 📫 How to reach me <b>sathvikshetty189@gmail.com</b>
+
+
+- ⚡ Fun fact <b>I am Funny</b>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sathvikkshetty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-shetty-8a235824a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikshetty189@gmail.com) 
@@ -41,7 +48,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik-Shetty-1569&layout=compact&theme=radical&hide_border=true" height="300" width="100%" />
       </td>
       <td style="width: 50%; padding: 10px;" align="center">
-        <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding Animation" height="300" width="100%" style="object-fit: contain;" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&theme=react-dark&bg_color=20232a&hide_border=true" height="300" width="100%" />
       </td>
     </tr>
   </table>
@@ -51,6 +58,5 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sathvik-Shetty-1569&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/api?username=Sathvik-Shetty-1569&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
