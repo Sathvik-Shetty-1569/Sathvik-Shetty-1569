@@ -5,11 +5,10 @@
  <br>
 <h1 align="center">Hi 👋, I'm Sathvik Shetty</h1>
 <h3 align="center">🤖 Exploring Generative AI & End-to-End Android Development</h3>
-<img align="right" alt="Coding" width="400" height = "380" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<br/>
+<img align="right" alt="Coding" width="420" height = "550" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<br>
 - 🔭 I'm currently working on <b>AI-powered Android projects</b>
-
 
 - 🌱 I'm currently diving deep into <b>Generative AI & Large Language Models</b>
 
@@ -22,6 +21,7 @@
 
 - ⚡ Fun fact <b>I am Funny</b>
 
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sathvikkshetty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvik-shetty-8a235824a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sathvikshetty189@gmail.com) 
