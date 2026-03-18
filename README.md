@@ -10,15 +10,14 @@
 
 ## 👾 Who Am I
 
-I'm **Sathvik** — a builder.
+I'm **Sathvik** — an AI systems thinker who ships.
 
-I like building things that are actually useful, not just impressive in a demo.
-My sweet spot is somewhere between **AI** and **full-stack** — where the interesting problems live.
+I don't just integrate APIs and call it an AI project.
+I care about **how** the agent reasons, **why** it fails, and what it takes to make it actually useful.
 
-I'm not trying to be the smartest person in the room.
-Just the one who ships.
+My zone is the intersection of **LLMs, agentic systems, and full-stack** — where the hardest and most interesting problems sit.
 
-> *"Build fast. Break things. Learn faster."*
+I'm not chasing hype. I'm building things with a point of view.
 
 ---
 
@@ -70,9 +69,9 @@ Just the one who ships.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sathvik-Shetty-1569&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Sathvik-Shetty-1569&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -80,7 +79,7 @@ Just the one who ships.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0a2540&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&bg_color=0d1117&color=00e5ff&line=00e5ff&point=c9d1d9&area=true&area_color=001a2e&hide_border=true"/>
 
 </div>
 
