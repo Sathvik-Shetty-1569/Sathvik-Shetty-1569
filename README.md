@@ -66,18 +66,23 @@ Just the one who ships.
 
 </div>
 
-
 ## 📊 The Receipts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=4dffb4&ring_color=00ff9c" height="170"/>
+<!-- Main Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=Sathvik-Shetty-1569&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=4dffb4&sideLabels=4dffb4&dates=4dffb4" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&bg_color=0d1117&color=00ff9c&line=00ff9c&point=4dffb4&area=true&area_color=003322&hide_border=true" width="95%"/>
-
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Sathvik-Shetty-1569&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="170"/>
 </div>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0a2540&hide_border=true"/>
+
+</div>>
 
 ---
 
