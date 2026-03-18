@@ -70,19 +70,19 @@ Just the one who ships.
 
 <div align="center">
 
-<!-- Main Stats -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Sathvik-Shetty-1569&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="170"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Sathvik-Shetty-1569&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+
 </div>
+
+<br>
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0a2540&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvik-Shetty-1569&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0a2540&hide_border=true"/>
 
-</div>>
+</div>
 
 ---
 
