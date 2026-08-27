@@ -19,10 +19,10 @@ My zone: **LLMs · agentic systems · full-stack** — where the hardest problem
 
 <br>
 
-## 🧠 Right now
+## 🧠 What I do
 
-- 🔭 Building **NEXUS** — an AI mock interview platform (LangGraph + hybrid RAG)
-- 🌱 Deep in agentic AI systems and retrieval
+- 🔭 Building AI-driven, agentic full-stack systems
+- 🌱 Deep in LLMs, RAG, and agentic AI architectures
 - ⚡ Learning by building real projects, not tutorials
 - 📫 sathvikshetty189@gmail.com
 
