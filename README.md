@@ -45,9 +45,6 @@ My zone: **LLMs · agentic systems · full-stack** — where the hardest problem
 
 <br>
 
-<div align="center">
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" />
-</div>
 
 <br>
 
