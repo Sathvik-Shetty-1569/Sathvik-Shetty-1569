@@ -36,7 +36,7 @@ I build LLM-based and agentic systems end to end — retrieval pipelines, tool-u
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9" width="460" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathvik-Shetty-1569&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9" width="460" alt="GitHub stats" />
 </div>
 
 <br>
